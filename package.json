@@ -1,0 +1,26 @@
+{
+  "name": "GLove-Server",
+  "version": "0.0.0",
+  "description": "Server code for the GLove.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nbikhcha/GLove-Server.git"
+  },
+  "keywords": [
+    "GLove"
+  ],
+  "author": "nikhil bikhchandani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nbikhcha/GLove-Server/issues"
+  },
+  "homepage": "https://github.com/nbikhcha/GLove-Server",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
